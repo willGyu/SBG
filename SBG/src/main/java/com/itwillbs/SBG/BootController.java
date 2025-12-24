@@ -11,8 +11,10 @@ public class BootController {
 	public String test1() throws Exception{
 		
 		//기능1번 구현
+		//깃허브에서 1번 기능 수정하기
 		
 		return "test";
 	}
 
 }
+
