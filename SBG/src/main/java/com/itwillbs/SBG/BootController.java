@@ -12,7 +12,7 @@ public class BootController {
 		
 		//기능1번 구현
 		//깃허브에서 1번 기능 수정하기
-		//로컬에서 작업하기 1번
+		//로컬에서 작업하기 2번(로컬)
 		
 		return "test";
 	}
